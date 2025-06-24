@@ -23,7 +23,6 @@ export default async function Home({ searchParams }) {
 
   return (
     <div>
-      Results
       <Results results={results} />
     </div>
   );
