@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 https://imdb-clone-three-mu.vercel.app/
 
+![alt text](https://github.com/SiecleGitHub/imdb-clone/blob/main/public/vercel-imdb-clone.jpg?raw=true)
+
 ## Getting Started
 
 First, run the development server:
